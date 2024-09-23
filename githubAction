@@ -1,0 +1,5 @@
+To create a basic GitHub Action workflow file, you can follow these steps:
+
+Create a new directory named .github/workflows in your repository if it doesn't already exist.
+Inside this directory, create a new file named ci.yml.
+Populate the file with a basic GitHub Action workflow configuration.
