@@ -3,7 +3,7 @@ name: pilot
 on:
   push:
     branches:
-      - main
+      - validation
 
 jobs:
   first-job:
